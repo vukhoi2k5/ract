@@ -1,0 +1,85 @@
+.cardStudent{
+    margin: 20vh auto 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+.container
+{
+    
+    background-color:green;
+    border-bottom: none;
+    
+}
+.container img 
+{
+    border-radius: 50%;
+  
+    
+}
+.col-4
+{
+    margin-left: 10px;
+    
+}
+.container .col-9
+{
+    display: flex;
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   
+  
+}
+.title-name{
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+.title-topic{
+    background-color: green;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 12px;
+    color: black;
+
+}
+.avt{
+
+    display: inline-block;
+    
+}
+.produce
+{
+ 
+    width: 1120px;
+    float: right;
+    height: 269px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: green;
+
+    
+}
+.main-content{
+    
+    max-width: 1320px;
+    margin: auto;
+    border-top: none;
+    background-color: green;
+    
+}
+.title
+{
+    margin-bottom: 20px;
+    
+}
+h5{
+    font-size: 25px;
+}
+.title-pro{
+    margin-top: 40px;
+
+}
